@@ -19,7 +19,8 @@ const imports = {
   'react-dom': true,
   'assert': true,
   'react-router': true,
-  'classnames': true
+  'classnames': true,
+  'config': true
 }
 
 function createImportStarAs(j, as, from) {
