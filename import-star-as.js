@@ -20,7 +20,9 @@ const imports = {
   'assert': true,
   'react-router': true,
   'classnames': true,
-  'config': true
+  'config': true,
+  'mobile-detect': true,
+  'combokeys': true
 }
 
 function createImportStarAs(j, as, from) {
